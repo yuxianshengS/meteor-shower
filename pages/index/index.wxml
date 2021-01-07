@@ -1,0 +1,30 @@
+<image src="../images/bgt.jpg"></image>
+<view class="icon iconfont icon-yinle {{is_music ?'':'active_music'}}" catchtap="stopMusic"></view>
+<view class="star_box">
+  <view class="star" style="top:{{item.top}}px;top:{{item.left}}px;" id="stars{{index}}" wx:for="{{starList}}"
+    wx:key="key"></view>
+</view>
+<view class="index_box">
+  <view class="index_title">必推心愿</view>
+  <view class="index_btn">
+    <view class="index_btn_content">开始立誓</view>
+  </view>
+</view>
+
+<view class="w">
+  <view class="tw">
+    <view class="t"></view>
+  </view>
+  <view class="tw">
+    <view class="t"></view>
+  </view>
+  <view class="tw">
+    <view class="t"></view>
+  </view>
+  <view class="tw">
+    <view class="t"></view>
+  </view>
+  <view class="tw">
+    <view class="t"></view>
+  </view>
+</view>
