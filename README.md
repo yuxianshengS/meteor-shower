@@ -16,3 +16,4 @@ git clone https://github.com/yuxianshengS/meteor-shower.git
 
 
 ## 效果图
+![预览图](https://raw.githubusercontent.com/yuxianshengS/meteor-shower/master/WechatIMG68.png)
