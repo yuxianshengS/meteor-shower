@@ -13,3 +13,6 @@
 git clone https://github.com/yuxianshengS/meteor-shower.git
 
 微信开发者工具中导入项目,选取测试appid
+
+
+## 效果图
